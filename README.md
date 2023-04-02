@@ -1,6 +1,7 @@
 # Exploratory Data Analysis baseada em dataset da NBA.
 
-![2k](https://user-images.githubusercontent.com/54710426/229376153-e0ddbeac-7725-4eae-bed3-4e8a721b2262.png)
+![2k](https://user-images.githubusercontent.com/54710426/229376839-7d245a75-d6ee-4ab6-a397-6d0b60fb9082.png)
+
 
 
 
