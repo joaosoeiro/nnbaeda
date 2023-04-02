@@ -3,15 +3,12 @@
 ![2k](https://user-images.githubusercontent.com/54710426/229376839-7d245a75-d6ee-4ab6-a397-6d0b60fb9082.png)
 
 
-
-
 ## Introdução
 E.D.A. feita em cima de dados de jogadores da NBA no game "NBA 2K" para a aula de I.A na Fatec SJC, com objetivo de tratar dados e trazer insights interessantes sobre o assunto.
 
 ## Tecnologias Utilizadas: 
 
 ```Python e módulos (Pandas, matplotlib, plotly, numpy)``` 
-
 
 
 ## Abaixo temos uma visão generalista da tabela, que contém informações diversas sobre os jogadores.
